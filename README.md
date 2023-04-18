@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I'm currently studying in Dongguk University
 
-<img src="https://img.shields.io/badge/C-FECC00?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-E9568E?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-527FFF?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Python-7B68EE?style=flat-square&logo=Python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/C-FECC00?style=plastic-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-E9568E?style=plastic-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-527FFF?style=plastic-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Python-7B68EE?style=plastic-square&logo=Python&logoColor=white"/>  
 <!--
 **ddozakim/ddozakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
