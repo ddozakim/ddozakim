@@ -1,5 +1,8 @@
 ### Hi there 👋
-🌱 I'm currently studying in Dongguk University
+> **Dongguk University**
+> BS Multi Media Engineering
+> 2019 • 2024  
+
 
 <img src="https://img.shields.io/badge/C-FECC00?style=plastic-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-E9568E?style=plastic-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-527FFF?style=plastic-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Python-7B68EE?style=plastic-square&logo=Python&logoColor=white"/>  
 <!--
