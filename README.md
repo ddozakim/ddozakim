@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm Minseo Kim
 > **Dongguk University**
 > BS Multi Media Engineering
 > 2019 • 2024
@@ -6,7 +7,7 @@
 >I'm interested in **Game Programming**👾
 > 
 
-## Stacks 📚
+# Stacks 📚
 >
 >**Language**
 >
