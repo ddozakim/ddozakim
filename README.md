@@ -6,11 +6,11 @@
 >I'm interested in Game Programming👾
 > 
 
-##Stacks
+## Stacks
 >
 >Language
 >
-<img src="https://img.shields.io/badge/c-00C4CC?style=plastic-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-E9568E?style=plastic-square&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-7B68EE?style=plastic-square&logo=Python&logoColor=white"/>
+><img src="https://img.shields.io/badge/c-00C4CC?style=plastic-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-E9568E?style=plastic-square&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-7B68EE?style=plastic-square&logo=Python&logoColor=white"/>
 >
 >Tools
 >
