@@ -7,10 +7,10 @@
 > 
 
 ## Stacks 📚
->---
+>
 >**Language**
 >
-><img src="https://img.shields.io/badge/cplusplus-E9568E?style=plastic-square&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-7B68EE?style=plastic-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FFDF6F?style=plastic-square&logo=Java&logoColor=white"/> 
+><img src="https://img.shields.io/badge/C++-E9568E?style=plastic-square&logo=cplusplus&logoColor=white"/>  <img src="https://img.shields.io/badge/Python-7B68EE?style=plastic-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-FFDF6F?style=plastic-square&logo=Java&logoColor=white"/> 
 >
 >
 >**Tools**
