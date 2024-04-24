@@ -7,7 +7,7 @@
 > 
 
 
-<img src="https://img.shields.io/badge/C-00C4CC?style=plastic-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-E9568E?style=plastic-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-527FFF?style=plastic-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Python-7B68EE?style=plastic-square&logo=Python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/c-00C4CC?style=plastic-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-E9568E?style=plastic-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-527FFF?style=plastic-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/Python-7B68EE?style=plastic-square&logo=Python&logoColor=white"/>  
 <!--
 **ddozakim/ddozakim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
